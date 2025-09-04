@@ -17,6 +17,10 @@
 
 - ⚡ Fun fact **I debug smart contracts like solving puzzles 🔐🧩**
 
+- 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/niranjan s binu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niranjan s binu" height="30" width="40" /></a>
