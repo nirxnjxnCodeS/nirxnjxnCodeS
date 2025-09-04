@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niranjan</h1>
-<h3 align="center">### 🚀 Web3 & Blockchain Developer @ Alkimi . A passionate blockchain and smart contract developer from India</h3>
+<h3 align="center">### 🚀 Web3 & Blockchain Developer @ Alkimi </h3>
 
 - 🔭 I’m currently working on ****Building Smart Contracts****
 
