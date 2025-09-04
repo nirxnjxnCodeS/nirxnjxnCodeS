@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Niranjan</h1>
 <h3 align="center">🚀 Web3 & Blockchain Developer @ Alkimi </h3>
 
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 - 🔭 I’m currently working on ****Building Smart Contracts****
 
 - 🌱 I’m currently learning ****Advanced Move smart contracts, DeFi mechanisms, and Web3 integrations****
@@ -17,8 +21,6 @@
 
 - ⚡ Fun fact **I debug smart contracts like solving puzzles 🔐🧩**
 
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 
 <h3 align="left">Connect with me:</h3>
